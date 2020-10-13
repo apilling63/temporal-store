@@ -10,7 +10,7 @@
 	<!--  specify Java 1.7 -->
  	<properties>
 		<jdk.version>1.7</jdk.version> 
-		<junit.version>4.11</junit.version> 
+		<junit.version>4.13.1</junit.version> 
  	</properties>
  
  	<!--  need JUnit on test scope only -->
